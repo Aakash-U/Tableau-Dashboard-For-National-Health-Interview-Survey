@@ -70,11 +70,11 @@ Below are different visual perspectives of the Tableau dashboard:
 
 ### 🖥️ How to View the Dashboard
 1. **If you have Tableau Desktop**:
-   - Download `NHIS Dashboard.twb` from the repo.
+   - Download [NHIS Dashboard.twb](NHIS Dashboard.twb) from the repo.
    - Open it in **Tableau Desktop**.
 
 2. **If you don’t have Tableau**:
-   - View the **screenshots** in the `screenshots/` folder.
+   - View the **screenshots** in the [screenshots](screenshots) folder.
    - Or use **Tableau Public** (if applicable).
 
 ## 📌 Acknowledgments
